@@ -1,3 +1,5 @@
+🚀 Hands-on SOC Analyst training portfolio with real-world simulations
+
 Cybersecurity Journey – SOC Analyst Path
 
 Goal
