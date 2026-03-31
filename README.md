@@ -21,9 +21,9 @@ Master’s student in Cybersecurity with strong theoretical knowledge, currently
 - Detected brute-force attack using Windows Event Logs  
 - Built attack timeline and mapped to MITRE ATT&CK  
 
-### 🚨 SOC Alert Investigation
-- Investigated simulated SIEM alerts  
-- Identified abnormal login patterns and suspicious activity  
+### 📧 [Phishing Email Investigation](projects/phishing-email-investigation.md)
+- Analyzed phishing email and identified spoofed domain  
+- Investigated malicious attachment and credential harvesting attempt  
 
 ### 🧪 Incident Response Report
 - Simulated brute-force attack scenario  
