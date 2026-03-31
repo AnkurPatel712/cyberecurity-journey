@@ -17,10 +17,11 @@ Skills Being Developed
 
 Projects
 
-Log Analysis – Brute Force Detection
-- Identified multiple failed login attempts (Event ID 4625)
-- Detected successful login after attack (Event ID 4624)
-- Analyzed suspicious IP behavior
+## 📂 Projects
+
+### 🔍 [Brute Force Attack Investigation](projects/bruteforce-attack-investigation.md)
+- Detected brute-force attack using log analysis  
+- Created attack timeline and MITRE mapping  
 
 
 SOC Alert Investigation
